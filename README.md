@@ -1,4 +1,4 @@
-# SSH client demo with xterm.js, Spring Boot and Apacha Mina SSHD
+# SSH client demo with xterm.js, Spring Boot and Apache Mina SSHD
 
 - Execute it (as jar or with maven or whatever).
 - Open http://localhost:8080/
